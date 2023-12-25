@@ -9,7 +9,7 @@ Key Features:
 1. Menu-driven interface for easy navigation.
 2. Secure PIN validation with a limited number of attempts.
 3. Core functionalities: check balance, deposit funds, withdraw funds, change PIN.
-4 .Designed to be clear and educational for Python learners.
+4. Designed to be clear and educational for Python learners.
 
 
 
